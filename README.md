@@ -16,15 +16,17 @@ End-to-end data analysis project analyzing **5,000+ e-commerce transactions** ac
 
 ## 📁 Project Structure
 ```
-├── ecommerce_sales_data.csv          # Original dataset
-├── ecommerce_sales_cleaned.csv       # Cleaned data
-├── tableau_data.csv                  # Tableau-ready data
-├── analysis_report.txt               # Detailed findings & recommendations
-├── revenue_by_category.png           # Visualization 1
-├── revenue_by_region.png             # Visualization 2
-├── monthly_trend.png                 # Visualization 3
-├── top_products.png                  # Visualization 4
-└── README.md                         # Project documentation
+├──E-commerce_sales_analysis.ipynb               #Jupyter source file
+├── Ecommerce-Sales-Analysis-Dashboard.twb
+├── ecommerce_sales_data.csv                     # Original dataset
+├── ecommerce_sales_cleaned.csv                  # Cleaned data
+├── tableau_data.csv                             # Tableau-ready data
+├── analysis_report.txt                          # Detailed findings & recommendations
+├── revenue_by_category.png                      # Visualization 1
+├── revenue_by_region.png                        # Visualization 2
+├── monthly_trend.png                            # Visualization 3
+├── top_products.png                             # Visualization 4
+└── README.md                                    # Project documentation
 ```
 
 ---
