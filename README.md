@@ -17,7 +17,7 @@ End-to-end data analysis project analyzing **5,000+ e-commerce transactions** ac
 ## 📁 Project Structure
 ```
 ├──E-commerce_sales_analysis.ipynb               #Jupyter source file
-├── Ecommerce-Sales-Analysis-Dashboard.twb
+├── Ecommerce-Sales-Analysis-Dashboard.twb       #Tableau workbook
 ├── ecommerce_sales_data.csv                     # Original dataset
 ├── ecommerce_sales_cleaned.csv                  # Cleaned data
 ├── tableau_data.csv                             # Tableau-ready data
