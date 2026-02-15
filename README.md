@@ -8,8 +8,7 @@ End-to-end data analysis project analyzing **5,000+ e-commerce transactions** ac
 
 ## 🔗 Live Interactive Dashboard
 
-**[View Tableau Public Dashboard →]
-((https://public.tableau.com/app/profile/shadab.samad/vizzes))**
+**[View Tableau Public Dashboard →]((https://public.tableau.com/app/profile/shadab.samad/vizzes))**
 
 
 ---
