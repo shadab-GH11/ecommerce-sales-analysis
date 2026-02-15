@@ -162,8 +162,8 @@ pip install pandas numpy matplotlib seaborn
 
 **[Shadab Samad]**
 - 📧 Email: shadabx8x@gmail.com
-- 💼 LinkedIn: (https://public.tableau.com/app/profile/shadab.samad/vizzes)
-- 📊 Tableau Public:(https://www.linkedin.com/in/shadab-samad-821a00269/)
+- 📊 Tableau Public: (https://public.tableau.com/app/profile/shadab.samad/vizzes)
+- 💼 LinkedIn:(https://www.linkedin.com/in/shadab-samad-821a00269/)
 
 ---
 
