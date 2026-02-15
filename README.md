@@ -10,7 +10,6 @@ End-to-end data analysis project analyzing **5,000+ e-commerce transactions** ac
 
 **[View Tableau Public Dashboard →]((https://public.tableau.com/app/profile/shadab.samad/vizzes))**
 
-*Replace with your actual Tableau Public link*
 
 ---
 
