@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Analysis Project
 
-![Tableau Dashboard](tableau_dashboard.png)
+![Dashboard Preview](Tableau-Dashboard.png)
 
 ## 🎯 Project Overview
 
